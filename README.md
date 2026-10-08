@@ -32,7 +32,7 @@ Song 7 — Do You Despise the Word
 TA: திருவசனத்தை நீ அவமதிக்கிறாயோ
 Prov 13:12–25
 
-**Published**
+## Published
 GitHub: https://github.com/KJC-DNN/Album93_The_Way_of_the_Lord_Is_Strength/releases/tag/93.0.0
 
 Archive.org : https://archive.org/details/album-93-the-way-of-the-lord-is-strength-main-cover.jpg
